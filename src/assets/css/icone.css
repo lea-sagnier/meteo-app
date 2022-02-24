@@ -1,0 +1,87 @@
+
+.weather_01d{
+    background-image: url(../img/01d.png);
+    background-size: contain ;
+    background-repeat: no-repeat;
+    height: 90px;
+    width: 90px;
+    }
+    .weather_02d{
+      background-image: url(../img/02d.png);
+      background-size: contain ;
+      background-repeat: no-repeat;
+      height: 90px;
+      width: 90px;
+      }
+      .weather_02n{
+        background-image: url(../img/02n.png);
+        background-size: contain ;
+        background-repeat: no-repeat;
+        height: 90px;
+        width: 90px;
+        }
+      .weather_03d{
+        background-image: url(../img/03d.png);
+        background-size: contain ;
+        background-repeat: no-repeat;
+        height: 90px;
+        width: 90px;
+        }
+        .weather_03n{
+          background-image: url(../img/03n.png);
+          background-size: contain ;
+          background-repeat: no-repeat;
+          height: 90px;
+          width: 90px;
+          }
+        .weather_04d{
+          background-image: url(../img/04d.png);
+          background-size: contain ;
+          background-repeat: no-repeat;
+          background-position: center;
+          height: 90px;
+          width: 90px;
+          }
+          .weather_04n{
+            background-image: url(../img/04n.png);
+            background-size: contain ;
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 90px;
+            width: 90px;
+            }
+          .weather_09d{
+            background-image: url(../img/09d.png);
+            background-size: contain ;
+            background-repeat: no-repeat;
+            height: 90px;
+            width: 90px;
+            }
+            .weather_10d{
+              background-image: url(../img/10d.png);
+              background-size: contain ;
+              background-repeat: no-repeat;
+              height: 90px;
+              width: 90px;
+              }
+              .weather_11d{
+                background-image: url(../img/11d.png);
+                background-size: contain ;
+                background-repeat: no-repeat;
+                height: 90px;
+                width: 90px;
+                }
+                .weather_13d{
+                  background-image: url(../img/13d.png);
+                  background-size: contain ;
+                  background-repeat: no-repeat;
+                  height: 90px;
+                  width: 90px;
+                  }
+                  .weather_50d{
+                    background-image: url(../img/50d.png);
+                    background-size: contain ;
+                    background-repeat: no-repeat;
+                    height: 90px;
+                    width: 90px;
+                    }

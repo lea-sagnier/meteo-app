@@ -1,14 +1,17 @@
 import React from 'react';
-import { Button } from 'antd';
 import './App.css';
-import Header from './Component/Header';
+import Footer from './Component/Footer';
 import 'antd/dist/antd.css';
+import { Outlet } from 'react-router-dom';
 
-const App = () => (
-  <div className="App">
-    <Header/>
-    <Button type="primary">Button</Button>
-  </div>
-);
+function App() {
+
+  return(
+    <div className="App">
+      <Footer/>
+      <Outlet/>
+    </div>
+    )
+};
 
 export default App;
